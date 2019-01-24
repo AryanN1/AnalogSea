@@ -1,4 +1,4 @@
-# AnalogSea A thinkful bootcamp checkpoint
+# Thinkful bootcamp checkpoint: Analog Sea
 
 -A signup page as represented in the designs found below this list of requirements.
 
