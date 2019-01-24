@@ -4,7 +4,7 @@
 
 -Respect any widths and heights indicated in the annotated design file.
 
--AnalogSea's logo appears at the top of the page. Reference it from here by right/Ctrl-clicking the logo and choosing "Copy Image Location": (Image can't be insterted in the read me)
+-AnalogSea's logo appears at the top of the page. Reference it from here by right/Ctrl-clicking the logo and choosing "Copy Image Location": (Image can't be inserted in the read me)
 
 -The form should post to the URL /signup/ when the user submits it.
 
